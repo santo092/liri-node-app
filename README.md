@@ -11,7 +11,7 @@
 
 **artist, song name, spotify link, album name**
 
-*default search = 'The Sign' by 'Aces of Base'*
+*default search = 'The Sign' by 'Ace of Base'*
 
 3. 'movie-this' - searches information of various movies using omdb api
 
