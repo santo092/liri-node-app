@@ -34,3 +34,8 @@
 
 **The users can get started with project by typing one pf the choices above in the command line**
 
+#Video links: 
+link 1: https://vimeo.com/325138522 
+link 2: https://vimeo.com/325138639
+
+**made another video because Bruno Mars had concerts in vegas for several days in a row, I wanted to show another example**
