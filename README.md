@@ -7,8 +7,6 @@
  
  **name of venue , venue location, date of event**
 
- 
-
 2. 'spotify-this-song' - searches information of various songs using spotify npm 
 
 **artist, song name, spotify link, album name**
@@ -38,4 +36,4 @@
 link 1: https://vimeo.com/325138522 
 link 2: https://vimeo.com/325138639
 
-**made another video because Bruno Mars had concerts in vegas for several days in a row, I wanted to show another example**
+**made another video because Bruno Mars had concerts in vegas for several days in a row, I wanted to show another example*
