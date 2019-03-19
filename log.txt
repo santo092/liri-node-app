@@ -4,3 +4,10 @@ concert-this drake
 concert-this drake
 movie-this jaws
 do-what-it-says 
+concert-this bruno+mars
+spotify-this-song hero
+spotify-this-song 
+movie-this forrest+gump
+movie-this 
+do-what-it-says 
+concert-this santana
