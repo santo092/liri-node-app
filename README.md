@@ -37,3 +37,14 @@ link 1: https://vimeo.com/325138522
 link 2: https://vimeo.com/325138639
 
 **made another video because Bruno Mars had concerts in vegas for several days in a row, I wanted to show another example*
+
+#API's/npms/libraries used: 
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^7.0.0",
+    "inquirer": "^6.2.2",
+    "json": "^9.0.6",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "spotify-web-api-node": "^4.0.0"
